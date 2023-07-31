@@ -1,4 +1,4 @@
-# React Crash Course (TodoList)
+# React Course Project (TodoList)
 
 This is the code for the assignment for Coding Ninjas
 
